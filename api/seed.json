@@ -1,0 +1,38 @@
+{
+  "apple": {
+    "name":"apple",
+    "description":"I'm an apple",
+    "tags": [
+      "fruit",
+      "red",
+      "tasty"
+    ]
+  },
+  "banana": {
+    "name":"banana",
+    "description":"I'm a banana",
+    "tags": [
+      "fruit",
+      "yellow",
+      "squishy"
+    ]
+  },
+  "tomato": {
+    "name":"tomato",
+    "description":"I'm a tomato",
+    "tags": [
+      "vegetable",
+      "red",
+      "juicy"
+    ]
+  },
+  "squirrel": {
+    "name":"squirrel",
+    "description":"I'm a squirrel",
+    "tags": [
+      "animal",
+      "brown",
+      "furry"
+    ]
+  }
+}
