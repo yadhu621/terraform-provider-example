@@ -4,11 +4,13 @@ provider "example" {
   token   = "superSecretToken"
 }
 
-resource "example_item" "test" {
-  name = "this_is_an_item"
-  description = "this is an item"
+resource "example_item" "zebra" {
+  name = "zebra"
+  description = "I'm a zebra"
   tags = [
-      "hello",
-      "world"
+      "striped",
+      "kind",
+      "funny",
+      "calm"
   ]
 }
