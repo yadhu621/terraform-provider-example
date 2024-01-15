@@ -10,7 +10,6 @@ resource "example_item" "zebra" {
   tags = [
       "striped",
       "kind",
-      "funny",
-      "calm"
+      "funny"
   ]
 }
